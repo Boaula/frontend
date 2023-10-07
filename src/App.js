@@ -17,7 +17,7 @@ function App() {
       <div className="App opacity">
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
 
-          <div className="container">
+          <div className="container-fluid">
 
           <a className="navbar-brand" href="https://play.google.com/store/apps/details?id=boaula.mhs.com&hl=pt_BR&gl=US">Math High Speed MHS</a>
                 <button className="navbar-toggler" type="button"
